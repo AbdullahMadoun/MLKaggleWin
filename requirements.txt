@@ -1,0 +1,12 @@
+autogluon
+tabpfn
+tabpfn-extensions[all] @ git+https://github.com/PriorLabs/tabpfn-extensions.git
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+huggingface_hub
+jupyter
